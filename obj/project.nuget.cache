@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1P9bE1G/3WOz0fA/Q6bnMExxJ6lBkFr3va7qzeQe1MoNicgxXhag5F+TUG2bFjTf49O+J7QVieShLfHdlNBBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Вячеслав\\source\\repos\\BlackSun\\BlackSun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вячеслав\\.nuget\\packages\\jquery\\3.6.0\\jquery.3.6.0.nupkg.sha512",
+    "C:\\Users\\Вячеслав\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
